@@ -1,0 +1,34 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"bridge."
+		]
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			20,
+			50
+		],
+		"uuid": "95bcbcf2-61fb-4b5c-90c4-2d7148c3eae2",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "9bf5ee5a-e1f4-45d7-8a44-7781d5a60573",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
